@@ -1,0 +1,95 @@
+METHOD: GET
+URL
+https://www.tiendariver.com/
+HEADERS
+accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding:
+gzip, deflate, br
+accept-language:
+es-419,es;q=0.9
+connection:
+keep-alive
+cookie:
+VtexRCSessionIdv7=5fc15fad-0867-4feb-a6fe-c923747bb9f2; VtexRCMacIdv7=b237e721-0ca1-48b5-a945-b0d54fecdd1a; checkout.vtex.com=__ofid=6f12fd5884294ad6ae59c06e219ae5bd; _gid=GA1.2.1080133859.1659915462; .ASPXAUTH=B9B5CC9D95F97D4C802120A83C0C476BF830215CD53955846603BA8D1BD6726804D702E0290B4BB9C428675F924F460986270A5F22E869CBBAF2556889E7639124FE67C96C44C8F23811E22E2549B56F84A720569180D034E2472B34AB585E9F673C0016CCA4094CEA8F3CBA6C1EF0D05FA7E551E9DAB73EB964B9B4A3E25EE795F4101A366CD0AFF6167B96C336F4275EB6428E78A22D1758546570DDB4B10D0790144E; visited=1; tiendariver_UserData=%7B%22IsUserDefined%22%3Afalse%7D; IPI=UrlReferrer=https%3a%2f%2fwww.google.com%2f; VTEXSC=sc=1; ISSMB=ScreenMedia=0&UserAcceptMobile=False; SGTS=1402895132A394F01FFDFB2F41631983; _fw_crm_v=311a541c-ca20-4a93-c17a-72b5a9b986b9; blueID=b459f342-a685-4387-b1b0-a60ae749e34b; _fbp=fb.1.1659915463265.1984153415; _hjFirstSeen=1; _hjIncludedInSessionSample=0; _hjSession_1248769=eyJpZCI6IjcwY2ZlOTlhLWExMjctNDBlZS1hMzdkLTQzNWM5ZjhlMWExNCIsImNyZWF0ZWQiOjE2NTk5MTU0NjMzNzAsImluU2FtcGxlIjpmYWxzZX0=; _hjIncludedInPageviewSample=1; _hjAbsoluteSessionInProgress=0; janus_sid=c003bb0e-a5cd-4e2f-be3b-b49454588032; _ga_D954297MFM=GS1.1.1659915462.1.1.1659915468.54; _ga=GA1.1.806325888.1659915462; _ga_9LXRJTKFLP=GS1.1.1659915462.1.1.1659915468.54; _hjSessionUser_1248769=eyJpZCI6IjQwMzJlYmQ3LTQxNzMtNTdjZC04YTc0LTNmMjAwMzU4ZTVmNSIsImNyZWF0ZWQiOjE2NTk5MTU0NjMzMTAsImV4aXN0aW5nIjp0cnVlfQ==; i18next=es-AR; VtexIdclientAutCookie_tiendariver=eyJhbGciOiJFUzI1NiIsImtpZCI6IkRERDBFNTAxNDQzOUMwQTc4MUMzQ0QyMEJBODU3QjdEMUMwRjEzNzciLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiJtZm9yaW9AZ21haWwuY29tIiwiYWNjb3VudCI6InRpZW5kYXJpdmVyIiwiYXVkaWVuY2UiOiJ3ZWJzdG9yZSIsInNlc3MiOiJjMmI1ODRkNC1kOWQ0LTQwZDgtOTAzNi1hNGNhODYwNjU3OWMiLCJleHAiOjE2NjAwMDIwNTUsInVzZXJJZCI6Ijg3ZjQ4N2U4LTc1NzktNDVjMC05ZTcwLWJlMjFjZGY5MTVjYiIsImlhdCI6MTY1OTkxNTY1NSwiaXNzIjoidG9rZW4tZW1pdHRlciIsImp0aSI6IjdjNjJjNTM4LWExZTAtNDBlOS1iZWQzLWFiYTY3N2U4YzMzMyJ9.oye6KFWY0iYGm7GV2Kf8nLzMNTFiXBEXQAx37WEycfDcTsblW4xgzxdgjcO5aB4hsFrIm7vLRFm5eN-h1LJuMA; VtexIdclientAutCookie_c452955b-4ee6-45a0-98ae-ea21620f9f63=eyJhbGciOiJFUzI1NiIsImtpZCI6IkRERDBFNTAxNDQzOUMwQTc4MUMzQ0QyMEJBODU3QjdEMUMwRjEzNzciLCJ0eXAiOiJqd3QifQ.eyJzdWIiOiJtZm9yaW9AZ21haWwuY29tIiwiYWNjb3VudCI6InRpZW5kYXJpdmVyIiwiYXVkaWVuY2UiOiJ3ZWJzdG9yZSIsInNlc3MiOiJjMmI1ODRkNC1kOWQ0LTQwZDgtOTAzNi1hNGNhODYwNjU3OWMiLCJleHAiOjE2NjAwMDIwNTUsInVzZXJJZCI6Ijg3ZjQ4N2U4LTc1NzktNDVjMC05ZTcwLWJlMjFjZGY5MTVjYiIsImlhdCI6MTY1OTkxNTY1NSwiaXNzIjoidG9rZW4tZW1pdHRlciIsImp0aSI6IjdjNjJjNTM4LWExZTAtNDBlOS1iZWQzLWFiYTY3N2U4YzMzMyJ9.oye6KFWY0iYGm7GV2Kf8nLzMNTFiXBEXQAx37WEycfDcTsblW4xgzxdgjcO5aB4hsFrIm7vLRFm5eN-h1LJuMA; vtex_session=eyJhbGciOiJFUzI1NiIsImtpZCI6IkRGNDQ5MEI1RjE5QjhCMTRFNkIzNUYzRTg0Njg1RTY5NEE3NEZBODAiLCJ0eXAiOiJqd3QifQ.eyJhY2NvdW50LmlkIjoiYzQ1Mjk1NWItNGVlNi00NWEwLTk4YWUtZWEyMTYyMGY5ZjYzIiwiaWQiOiJlN2FmOTA2Ni1kOTBlLTQ4MjgtYWM2My1iNTgzM2MxOGIzYmUiLCJ2ZXJzaW9uIjozLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE2NjA2MDY4NTYsImlhdCI6MTY1OTkxNTY1NiwiaXNzIjoidG9rZW4tZW1pdHRlciIsImp0aSI6ImMzNWE1YjBjLWRkZjktNDcyYS05NmE1LTljODYwYzBhNWQ0ZSJ9.WiIyCyZl4MFnrm9011-hcJ07x74JtFEHQP08y8CWlEloSQzORKhE1Rig2YIkMMa5q6A6PzEtgsfpVx_e2EhJLQ; vtex_segment=eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkFSUyIsImN1cnJlbmN5U3ltYm9sIjoiJCIsImNvdW50cnlDb2RlIjoiQVJHIiwiY3VsdHVyZUluZm8iOiJlcy1BUiIsImFkbWluX2N1bHR1cmVJbmZvIjoiZXMtQVIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9
+host:
+www.tiendariver.com
+if-none-match:
+"2E32960E3575955677491BD72C967E22"
+referer:
+https://www.tiendariver.com/login
+sec-ch-ua:
+".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"macOS"
+sec-fetch-dest:
+document
+sec-fetch-mode:
+navigate
+sec-fetch-site:
+same-origin
+upgrade-insecure-requests:
+1
+user-agent:
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+200
+STATUS: 200 OK
+HEADERS
+cache-control:
+public, max-age=0, s-maxage=120
+connection:
+keep-alive
+content-encoding:
+gzip
+content-length:
+39704
+content-security-policy:
+upgrade-insecure-requests
+content-type:
+text/html; charset=utf-8
+date:
+Sun, 07 Aug 2022 23:40:57 GMT
+etag:
+"0F45496F3659F708610DCC64AA8D365F"
+no:
+AC10A44B
+p3p:
+policyref="/w3c/p3p.xml",CP="ADMa OUR NOR CNT NID DSP NOI COR"
+powered:
+vtex
+vary:
+Accept-Encoding
+via:
+1.1 20a4932de861d5f21104db34596c9034.cloudfront.net (CloudFront)
+x-amz-cf-id:
+suhTvnS4KrOtPbGC80eFUcv6pZ1p-1N5nVQsxTld3cLOLSb1CXDAfQ==
+x-amz-cf-pop:
+BOG50-P1
+x-cache:
+Miss from cloudfront
+x-frame-options:
+DENY
+x-powered-by-vtex-cache:
+2.3.0
+x-vtex-cache-backend-connect-time:
+0.000
+x-vtex-cache-backend-header-time:
+0.300
+x-vtex-cache-server:
+apicache5
+x-vtex-cache-status-janus-apicache:
+EXPIRED
+x-vtex-cache-time:
+0.298
+x-vtex-janus-router-backend-app:
+portal-v1.5.56+2482
+x-vtex-processado-em:
+: 00:00:00.2343856-c1:120
+x-vtex-processed-at:
+07/08/2022 23:40:55
+x-vtex-remote-cache:
+true
+x-xss-protection:
+1
